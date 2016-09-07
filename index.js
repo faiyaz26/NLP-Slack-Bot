@@ -16,7 +16,7 @@ var customPhrases;
 try {
   customPhrasesText = fs.readFileSync(__dirname + '/custom-phrases.json').toString();
 } catch (err) {
-  throw new Error('Uh oh, Bottie could not find the ' +
+  throw new Error('Uh oh, Augmedix Bot could not find the ' +
     'custom-phrases.json file, did you move it?');
 }
 try {
@@ -47,7 +47,7 @@ Bottie.Ears
       Bottie.Brain.invoke(interpretation.guess, interpretation, speech, message);
     } else {
       speech.reply(message, 'Hmm... I couldn\'t tell what you said...');
-      speech.reply(message, '```\n' + JSON.stringify(interpretation) + '\n```');
+      //speech.reply(message, '```\n' + JSON.stringify(interpretation) + '\n```');
     }
   });
 
