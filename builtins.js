@@ -50,5 +50,14 @@ module.exports = {
     'help bot',
     'helppppp',
     'helllllp'
+  ],
+  Myself : [
+    'who are you',
+    'tell me about you',
+    'what is your purpose',
+    'let me know about you bot',
+    'tell me about yourself',
+    'introduce you',
+    'introduce yourself'
   ]
 };
