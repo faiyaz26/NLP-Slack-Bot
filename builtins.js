@@ -16,17 +16,7 @@ module.exports = {
     'be a good bot and parrot benf fodjsi bdfsjdhf bazz back to me',
     'copy cat behf sdkjhfg peiurf fdlkgj kwjhe foufg'
   ],
-  Ceo : [
-    'Who is the CEO ?',
-    'Who is the ceo ?',
-    'ceo of augmedix',
-    'ceo of the company',
-    'ceo',
-    'augmedix ceo'
-  ],
   Developer : [
-    'who is the developer',
-    'who is developer',
     'developer of this bot',
     'bot developer',
     'who developed this bot',
@@ -35,7 +25,6 @@ module.exports = {
   ],
   Augmedix : [
     'tell me about augmedix',
-    'what do you know about augmedix',
     'augmedix info',
     'about augmedix',
     'let me know about augmedix',
@@ -59,5 +48,18 @@ module.exports = {
     'tell me about yourself',
     'introduce you',
     'introduce yourself'
+  ],
+  Weather : [
+    'tell me the weather of dhaka',
+    'weather dhaka',
+    'weather',
+    'weather report',
+    'current weather',
+    'usa weather',
+    'california weather',
+    'san fransisco weather',
+    'sf weather',
+    'weather san fransisco',
+    'weather usa'
   ]
 };

@@ -844,6 +844,11 @@
           "resolved": "https://registry.npmjs.org/underscore/-/underscore-1.8.3.tgz"
         }
       }
+    },
+    "one-liner-joke": {
+      "version": "1.0.0",
+      "from": "one-liner-joke@*",
+      "resolved": "https://registry.npmjs.org/one-liner-joke/-/one-liner-joke-1.0.0.tgz"
     }
   }
 }

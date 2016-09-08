@@ -29,7 +29,8 @@
   "homepage": "https://github.com/andrew-templeton/bottie#readme",
   "dependencies": {
     "botkit": "0.0.5",
-    "jokes": "0.0.2",
-    "natural": "^0.2.1"
+    "natural": "^0.2.1",
+    "one-liner-joke": "^1.0.0",
+    "weather-js": "^1.0.2"
   }
 }
