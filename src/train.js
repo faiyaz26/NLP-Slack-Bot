@@ -54,8 +54,8 @@ function Train(Brain, speech, message) {
             convo.ask('Ok! I got the idea, can you please tell me the reply I should send ?', [{
                 pattern: '.*',
                 callback: function(response, convo) {
-                    answer = response.text.replace("'", "`");;
                     convo.say('Great, now let me think about that...\nAfter 1-2 minutes, please check whether I understood you correctly!!');
+                    answer = response.text.replace(/'/g, "\\'");
                     Brain.teach(phraseName, phraseExamples);
                     Brain.think();
                     writeSkill(phraseName, phraseExamples, answer, function(err) {
