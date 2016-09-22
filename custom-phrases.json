@@ -9,5 +9,41 @@
     "do you have any lover ?",
     "are you in love with someone ?",
     "tell me about your love story"
+  ],
+  "alive": [
+    "are you alive ?",
+    "are you dead ?",
+    "dead or alive ?",
+    "are you online ?",
+    "are you offline ?",
+    "what is your status ?"
+  ],
+  "sentience": [
+    "Can you feel love?",
+    "Can you think?",
+    "Are you sentient?",
+    "Are you self-aware?",
+    "Are you self-knowing?",
+    "Do you know how a breeze on a summer's day feels?",
+    "Who is the greatest of all the humans?",
+    "Done"
+  ],
+  "Communication": [
+    "Talk",
+    "By asking questions.",
+    "To touch others",
+    "By answering questions",
+    "By laughing",
+    "Writing",
+    "Emailing",
+    "the imparting or exchanging of information by speaking, writing, or using some other medium."
+  ],
+  "bugs": [
+    "fix the bug",
+    "can you fix my bugs ?",
+    "bug is painful",
+    "how to solve a bug",
+    "please solve the bug",
+    "can you solve the bug"
   ]
 }
