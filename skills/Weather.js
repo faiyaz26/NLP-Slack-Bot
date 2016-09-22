@@ -10,6 +10,10 @@ module.exports = function(skill, info, bot, message) {
 		{
 			city : 'san francisco',
 			search : 'San Francisco, CA'
+		},
+		{
+			city : 'sf',
+			search : 'San Francisco, CA'
 		}
 	];
 	var selectPlace = -1;
