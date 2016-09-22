@@ -21,7 +21,9 @@ module.exports = {
     'bot developer',
     'who developed this bot',
     'developed this bot',
-    'bot development'
+    'bot development',
+    'who is the developer ?',
+    'tell me about your developer'
   ],
   Augmedix : [
     'tell me about augmedix',

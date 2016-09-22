@@ -46,7 +46,7 @@ Bottie.Ears
       console.log('Invoking skill: ' + interpretation.guess);
       Bottie.Brain.invoke(interpretation.guess, interpretation, speech, message);
     } else {
-      speech.reply(message, 'Hmm... I couldn\'t tell what you said...');
+      speech.reply(message, 'Sorry! I am not able to understand your words. Hey, @faiyaz26 can you help me out here ?');
       //speech.reply(message, '```\n' + JSON.stringify(interpretation) + '\n```');
     }
   });
